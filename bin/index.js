@@ -15,7 +15,7 @@ console.log(
     ),
 )
 console.log(
-    chalk.blue(' powered by Restock Destroyer - Sentox#2002')
+    chalk.blue(' powered by Sentox#2002')
 )
 
 console.log(
