@@ -3,7 +3,7 @@
 
 # DiscordAIO
 
-powered by [Restock Restroyer](https://twitter.com/RestockDestroy)
+powered by [Sentox](https://twitter.com/SentoxAIO)
 
 ## How to get started
 
