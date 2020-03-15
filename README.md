@@ -1,5 +1,5 @@
 
-<p align="center"><img width=50% src="https://cdn.discordapp.com/attachments/676400481026703371/688826792903180387/Screenshot_201.png"></p>
+<p align="center"><img width=50% src="https://cdn.discordapp.com/attachments/676400481026703371/688828273110679552/Screenshot_202.png"></p>
 
 # DiscordAIO
 
