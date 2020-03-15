@@ -1,5 +1,5 @@
 
-<p align="center"><img width=50% src="https://imgur.com/a/MhSLBr3"></p>
+<p align="center"><img width=50% src="https://cdn.discordapp.com/attachments/676400481026703371/688826792903180387/Screenshot_201.png"></p>
 
 # DiscordAIO
 
@@ -8,14 +8,14 @@ powered by [Restock Restroyer](https://twitter.com/RestockDestroy)
 ## How to get started
 
 1. Make sure you have NodeJS  installed
-2. download & unzip this the zip you donwloaded, open your CMD/Terminal and `cd` to this folder.
-3. run `npm install -r requirements.txt`
+2. Download & unzip this the zip you donwloaded, open your CMD/Terminal and `cd` to this folder.
+3. Run `npm install -r requirements.txt`
 
-## To run
+## To run:
 
-open your terminal, change your directory to this folder/repo and run:
+Open your terminal, change your directory to this folder/repo and run:
 
-- `node bin/index.js
+- node bin/index.js
 
 ## Notes
 
