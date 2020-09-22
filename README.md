@@ -5,8 +5,8 @@ powered by [Sentox](https://twitter.com/SentoxAIO)
 ## How to get started
 
 1. Make sure you have NodeJS  installed
-2. Download & unzip this the zip you donwloaded, open your CMD/Terminal and `cd` to this folder.
-3. Run `npm install -r requirements.txt`
+2. Download & unzip this the zip you downloaded, open your CMD/Terminal and `cd` to this folder.
+3. Run `npm install`
 
 ## To run:
 
