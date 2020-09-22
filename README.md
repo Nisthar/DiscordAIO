@@ -2,6 +2,10 @@
 
 powered by [Sentox](https://twitter.com/SentoxAIO)
 
+DOESNT WORK ANYMORE DUE TO DISCORD UPDATE BUT ONLY NEEDS SMALL THINGS TO MAKE IT WORK AGAIN
+DONT DM ME FOR ANY SUPPORT!
+YOU CAN EASILY DO IT ON YOUR OWN AND I DONT HAVE THE TIME FOR IT
+
 ## How to get started
 
 1. Make sure you have NodeJS  installed
